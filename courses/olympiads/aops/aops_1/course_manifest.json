@@ -1,0 +1,27 @@
+{
+    "id": "trane::math::olympiads::aops::aops_1",
+    "name": "Art of Problem Solving 1 - The Basics",
+    "dependencies": [],
+    "description": "Practice the material from the first book of the Art of Problem Solving series.",
+    "authors": [
+        "The Trane Project"
+    ],
+    "metadata": {
+        "course_series": [
+            "math_olympiads",
+            "aops"
+        ],
+        "skill": [
+            "math"
+        ]
+    },
+    "course_material": null,
+    "course_instructions": {
+        "MarkdownAsset": {
+            "path": "course_instructions.md"
+        }
+    },
+    "generator_config": {
+        "KnowledgeBase": {}
+    }
+}
