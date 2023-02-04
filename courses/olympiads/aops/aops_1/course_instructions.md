@@ -8,7 +8,7 @@ The exercises will refer to the book using the shorthand AOPS1. Here are some ex
 
 - Solve AOPS1, Exercise 1-1.
 - Review AOPS1, Example 1-1.
-- Review the definition of fractional exponents in AOPS1, Section 1.2.
+- Review the definition of fractional exponents in AOPS1, Chapter 1.2.
 - Solve AOPS1, Chapter 1, Problem 3.
 
 Refer to the README.md file at the root of the repository for more general information on how to use
