@@ -1,4 +1,4 @@
-# Art of Problem Solving, Volume 1 - The Basics
+# Art of Problem Solving, Volume 1: The Basics
 
 This course is based on the first volume of the Art of Problem Solving series. The book and the
 solutions to the problems can be acquired at
