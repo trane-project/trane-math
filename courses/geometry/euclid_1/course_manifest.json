@@ -1,15 +1,15 @@
 {
-    "id": "trane::math::olympiads::aops::aops_1",
-    "name": "Art of Problem Solving 1 - The Basics",
+    "id": "trane::math::geometry::euclid_1",
+    "name": "Euclid's Elements Redux 1 - Plane Geometry",
     "dependencies": [],
-    "description": "Master the material from the first book of the Art of Problem Solving series.",
+    "description": "Master the material from Euclid's Elements, Book I-VI",
     "authors": [
         "The Trane Project"
     ],
     "metadata": {
         "course_series": [
-            "math_olympiads",
-            "aops"
+            "euclid",
+            "geometry"
         ],
         "skill": [
             "math"

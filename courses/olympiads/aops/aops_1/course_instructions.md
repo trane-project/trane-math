@@ -1,8 +1,8 @@
 # Art of Problem Solving, Volume 1: The Basics
 
 This course is based on the first volume of the Art of Problem Solving series. The book and the
-solutions to the problems can be acquired at
-[https://artofproblemsolving.com/store/book/aops-vol1](https://artofproblemsolving.com/store/book/aops-vol1)
+solutions to the problems can be acquired at this
+[link](https://artofproblemsolving.com/store/book/aops-vol1)
 
 The exercises will refer to the book using the shorthand AOPS1. Here are some examples:
 
