@@ -328,6 +328,37 @@
             ],
             "metadata": null,
             "additional_files": []
+        },
+        {
+            "short_id": "1.5_problems_1",
+            "dependencies": [
+                "1.5"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 8."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
         }
     ]
 }
