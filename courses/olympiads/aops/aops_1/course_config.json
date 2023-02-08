@@ -1,0 +1,74 @@
+{
+    "manifest": {
+        "id": "trane::math::olympiads::aops::aops_1",
+        "name": "Art of Problem Solving 1 - The Basics",
+        "dependencies": [],
+        "description": "Master the material from the first book of the Art of Problem Solving series.",
+        "authors": [
+            "The Trane Project"
+        ],
+        "metadata": {
+            "course_series": [
+                "math_olympiads",
+                "aops"
+            ],
+            "skill": [
+                "math"
+            ]
+        },
+        "course_material": null,
+        "course_instructions": {
+            "MarkdownAsset": {
+                "path": "course_instructions.md"
+            }
+        },
+        "generator_config": {
+            "KnowledgeBase": {}
+        }
+    },
+    "lessons": [
+        {
+            "short_id": "1.1",
+            "dependencies": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of integer exponents in AOPS1, Chapter 1.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 1-2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-1."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        }
+    ]
+}
