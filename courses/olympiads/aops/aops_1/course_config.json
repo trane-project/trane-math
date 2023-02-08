@@ -169,6 +169,37 @@
             ],
             "metadata": null,
             "additional_files": []
+        },
+        {
+            "short_id": "1.3",
+            "dependencies": [
+                "1.2_problems_1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the procedure to simplify radical expressions in AOPS1, Chapter 1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-11."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-4"
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
         }
     ]
 }
