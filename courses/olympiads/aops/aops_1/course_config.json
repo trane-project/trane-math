@@ -1,0 +1,364 @@
+{
+    "manifest": {
+        "id": "trane::math::olympiads::aops::aops_1",
+        "name": "Art of Problem Solving 1 - The Basics",
+        "dependencies": [],
+        "description": "Master the material from the first book of the Art of Problem Solving series.",
+        "authors": [
+            "The Trane Project"
+        ],
+        "metadata": {
+            "course_series": [
+                "math_olympiads",
+                "aops"
+            ],
+            "skill": [
+                "math"
+            ]
+        },
+        "course_material": null,
+        "course_instructions": {
+            "MarkdownAsset": {
+                "path": "course_instructions.md"
+            }
+        },
+        "generator_config": {
+            "KnowledgeBase": {}
+        }
+    },
+    "lessons": [
+        {
+            "short_id": "1.1",
+            "dependencies": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of integer exponents in AOPS1, Chapter 1.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 1-2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-1."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.1_problems_1",
+            "dependencies": [
+                "1.1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 4."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.2",
+            "dependencies": [
+                "1.1_problems_1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of fractional exponents in AOPS1, Chapter 1.2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-6."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 1-7."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-8."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review AOPS1, Example 1-9."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Review AOPS1, Example 1-10."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-3."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.2_problems_1",
+            "dependencies": [
+                "1.2"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 5."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.3",
+            "dependencies": [
+                "1.2_problems_1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the procedure to simplify radical expressions in AOPS1, Chapter 1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-11."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-4."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.4",
+            "dependencies": [
+                "1.3"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the procedure to rationalize denominators in AOPS1, Chapter 1.4."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-12."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-5."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-13."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Review AOPS1, Example 1-14."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-6."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.4_problems_1",
+            "dependencies": [
+                "1.4"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 6."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 7."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.5",
+            "dependencies": [
+                "1.4_problems_1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of the logarithm in AOPS1, Chapter 1.5."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-7."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-8."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-15."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-9."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.5_problems_1",
+            "dependencies": [
+                "1.5"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 8."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        }
+    ]
+}
