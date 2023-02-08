@@ -152,6 +152,23 @@
             ],
             "metadata": null,
             "additional_files": []
+        },
+        {
+            "short_id": "1.2_problems_1",
+            "dependencies": [
+                "1.2"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 5."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
         }
     ]
 }
