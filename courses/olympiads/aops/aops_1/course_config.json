@@ -200,6 +200,58 @@
             ],
             "metadata": null,
             "additional_files": []
+        },
+        {
+            "short_id": "1.4",
+            "dependencies": [
+                "1.3"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the procedure to rationalize denominators in AOPS1, Chapter 1.4."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-12."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-5."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-13."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Review AOPS1, Example 1-14."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-6."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
         }
     ]
 }
