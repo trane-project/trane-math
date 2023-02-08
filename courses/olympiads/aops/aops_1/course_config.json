@@ -69,6 +69,89 @@
             ],
             "metadata": null,
             "additional_files": []
+        },
+        {
+            "short_id": "1.1_problems_1",
+            "dependencies": [
+                "1.1"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 4."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
+        },
+        {
+            "short_id": "1.2",
+            "dependencies": [
+                "1.1_problems"
+            ],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of fractional exponents in AOPS1, Chapter 1.2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 1-6."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 1-7."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 1-8."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review AOPS1, Example 1-9."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Review AOPS1, Example 1-10."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Solve AOPS1, Exercise 1-3."
+                    ],
+                    "back": []
+                }
+            ],
+            "metadata": null,
+            "additional_files": []
         }
     ]
 }
