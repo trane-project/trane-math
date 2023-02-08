@@ -90,7 +90,7 @@
         {
             "short_id": "1.2",
             "dependencies": [
-                "1.1_problems"
+                "1.1_problems_1"
             ],
             "exercises": [
                 {
