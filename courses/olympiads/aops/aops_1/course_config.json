@@ -361,6 +361,72 @@
             ]
         },
         {
+            "short_id": "1.5_problems_2",
+            "dependencies": [
+                "3.4_problems_1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 9."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 10."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 11."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 12."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 13."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 14."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 15."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Solve AOPS1, Chapter 1, Problem 16."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
             "short_id": "2",
             "dependencies": [
                 "1.5_problems_1"
