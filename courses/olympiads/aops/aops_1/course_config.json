@@ -68,7 +68,7 @@
                     ],
                     "back": []
                 }
-            ] 
+            ]
         },
         {
             "short_id": "1.1_problems_1",
@@ -517,7 +517,7 @@
             ],
             "metadata": null,
             "additional_files": [],
-            "exercises":[
+            "exercises": [
                 {
                     "short_id": "1",
                     "front": [
@@ -585,6 +585,430 @@
                     "short_id": "10",
                     "front": [
                         "Solve AOPS1, Chapter 2, Problem 26."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.2",
+            "dependencies": [
+                "2_problems_1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review AOPS1, Example 3-1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 3-2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 3-3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 3-4."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-2."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.3",
+            "dependencies": [
+                "3.2"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the definition of a system of equations in AO1S1, Section 3.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 3-5."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review AOPS1, Example 3-6."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 3-7."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Review AOPS1, Example 3-8."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review AOPS1, Example 3-9."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-3."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.3_problems_1",
+            "dependencies": [
+                "3.3"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 37."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 52."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 53."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.4",
+            "dependencies": [
+                "3.3_problems_1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review AOPS1, Example 3-10."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review AOPS1, Example 3-11."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-4."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review AOPS1, Example 3-12."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-5."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review AOPS1, Example 3-13."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Review AOPS1, Example 3-14."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Review  AOPS1, Example 3-15."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "9",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-6."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "10",
+                    "front": [
+                        "Solve AOPS1, Exercise 3-7."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.4_problems_1",
+            "dependencies": [
+                "3.4"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 27."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 28."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 29."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 30."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 31."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 32."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 33."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 34."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "9",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 35."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "10",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 36."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "3.4_problems_2",
+            "dependencies": [
+                "3.4_problems_1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 38."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 39."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 40."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 41."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 42."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 43."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 44."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 45."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "9",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 46."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "10",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 47."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "11",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 48."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "12",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 49."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "13",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 50."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "14",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 51."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "15",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 54."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "16",
+                    "front": [
+                        "Solve AOPS1, Chapter 3, Problem 55."
                     ],
                     "back": []
                 }
