@@ -659,7 +659,7 @@
         {
             "short_id": "3.2",
             "dependencies": [
-                "2_problems_1"
+                "1.5_problems_1"
             ],
             "metadata": null,
             "additional_files": [],
