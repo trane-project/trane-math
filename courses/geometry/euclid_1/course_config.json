@@ -1,0 +1,521 @@
+{
+    "manifest": {
+        "id": "trane::math::geometry::euclid_1",
+        "name": "Euclid's Elements Redux 1 - Plane Geometry",
+        "dependencies": [],
+        "description": "Master the material from Euclid's Elements, Book I-VI",
+        "authors": [
+            "The Trane Project"
+        ],
+        "metadata": {
+            "course_series": [
+                "euclid",
+                "geometry"
+            ],
+            "skill": [
+                "math"
+            ]
+        },
+        "course_material": null,
+        "course_instructions": {
+            "MarkdownAsset": {
+                "path": "course_instructions.md"
+            }
+        },
+        "generator_config": {
+            "KnowledgeBase": {}
+        }
+    },
+    "lessons": [
+        {
+            "short_id": "1.1",
+            "dependencies": [],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review the symbols in EUCLID1, Chapter 1.1.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review the definitions and examples in EUCLID1, Chapter 1.1.2"
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review definition 1 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review definition 2 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Review definition 3 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review definition 4 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Review definition 5 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Review definition 6 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "9",
+                    "front": [
+                        "Review definition 7 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "10",
+                    "front": [
+                        "Review definition 8 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "11",
+                    "front": [
+                        "Review definition 9 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "12",
+                    "front": [
+                        "Review definition 10 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "13",
+                    "front": [
+                        "Review definition 11 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "14",
+                    "front": [
+                        "Review definition 12 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "15",
+                    "front": [
+                        "Review definition 13 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "16",
+                    "front": [
+                        "Review definition 14 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "17",
+                    "front": [
+                        "Review definition 15 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "18",
+                    "front": [
+                        "Review definition 16 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "19",
+                    "front": [
+                        "Review definition 17 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "20",
+                    "front": [
+                        "Review definition 18 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "21",
+                    "front": [
+                        "Review definition 19 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "22",
+                    "front": [
+                        "Review definition 20 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "23",
+                    "front": [
+                        "Review definition 21 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "24",
+                    "front": [
+                        "Review definition 22 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "25",
+                    "front": [
+                        "Review definition 23 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "26",
+                    "front": [
+                        "Review definition 24 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "27",
+                    "front": [
+                        "Review definition 25 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "28",
+                    "front": [
+                        "Review definition 26 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "29",
+                    "front": [
+                        "Review definition 27 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "30",
+                    "front": [
+                        "Review definition 28 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "31",
+                    "front": [
+                        "Review definition 29 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "32",
+                    "front": [
+                        "Review definition 30 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "33",
+                    "front": [
+                        "Review definition 31 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "34",
+                    "front": [
+                        "Review definition 32 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "35",
+                    "front": [
+                        "Review definition 33 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "36",
+                    "front": [
+                        "Review definition 34 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "37",
+                    "front": [
+                        "Review definition 35 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "38",
+                    "front": [
+                        "Review definition 36 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "39",
+                    "front": [
+                        "Review definition 37 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "40",
+                    "front": [
+                        "Review definition 38 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "41",
+                    "front": [
+                        "Review definition 39 in EUCLID1, Chapter 1.1.3."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "1.2",
+            "dependencies": [
+                "1.1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review postulate 1 in EUCLID1, Chapter 1.2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review postulate 2 in EUCLID1, Chapter 1.2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review postulate 3 in EUCLID1, Chapter 1.2."
+                    ],
+                    "back": []
+                }
+            ]
+        },
+        {
+            "short_id": "1.3",
+            "dependencies": [
+                "1.1"
+            ],
+            "metadata": null,
+            "additional_files": [],
+            "exercises": [
+                {
+                    "short_id": "1",
+                    "front": [
+                        "Review definition of the addition operation in EUCLID1, Chapter 1.3.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "2",
+                    "front": [
+                        "Review definition of the subtraction operation in EUCLID1, Chapter 1.3.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "3",
+                    "front": [
+                        "Review definition of the multiplication operation in EUCLID1, Chapter 1.3.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "4",
+                    "front": [
+                        "Review definition of the division operation in EUCLID1, Chapter 1.3.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "5",
+                    "front": [
+                        "Review algebraic axiom 1 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "6",
+                    "front": [
+                        "Review algebraic axiom 2 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "7",
+                    "front": [
+                        "Review algebraic axiom 3 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "8",
+                    "front": [
+                        "Review algebraic axiom 4 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "9",
+                    "front": [
+                        "Review algebraic axiom 5 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "10",
+                    "front": [
+                        "Review algebraic axiom 6 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "11",
+                    "front": [
+                        "Review algebraic axiom 7 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "12",
+                    "front": [
+                        "Review algebraic axiom 8 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "13",
+                    "front": [
+                        "Review algebraic axiom 9 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "14",
+                    "front": [
+                        "Review algebraic axiom 10 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "15",
+                    "front": [
+                        "Review algebraic axiom 11 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "16",
+                    "front": [
+                        "Review algebraic axiom 12 in EUCLID1, Chapter 1.3.1." 
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "17",
+                    "front": [
+                        "Review algebraic axiom 13 in EUCLID1, Chapter 1.3.1."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "18",
+                    "front": [
+                        "Review the congruence axioms in EUCLID1, Chapter 1.3.2."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "19",
+                    "front": [
+                        "Review geometric axiom 1 in EUCLID1, Chapter 1.3.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "20",
+                    "front": [
+                        "Review geometric axiom 2 in EUCLID1, Chapter 1.3.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "21",
+                    "front": [
+                        "Review geometric axiom 3 in EUCLID1, Chapter 1.3.3."
+                    ],
+                    "back": []
+                },
+                {
+                    "short_id": "22",
+                    "front": [
+                        "Review geometric axiom 4 in EUCLID1, Chapter 1.3.3."
+                    ],
+                    "back": []
+                }
+            ]
+        }
+    ]
+}

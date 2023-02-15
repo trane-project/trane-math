@@ -1,27 +1,27 @@
 {
-    "id": "trane::math::geometry::euclid_1",
-    "name": "Euclid's Elements Redux 1 - Plane Geometry",
-    "dependencies": [],
-    "description": "Master the material from Euclid's Elements, Book I-VI",
-    "authors": [
-        "The Trane Project"
+  "id": "trane::math::geometry::euclid_1",
+  "name": "Euclid's Elements Redux 1 - Plane Geometry",
+  "dependencies": [],
+  "description": "Master the material from Euclid's Elements, Book I-VI",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "course_series": [
+      "euclid",
+      "geometry"
     ],
-    "metadata": {
-        "course_series": [
-            "euclid",
-            "geometry"
-        ],
-        "skill": [
-            "math"
-        ]
-    },
-    "course_material": null,
-    "course_instructions": {
-        "MarkdownAsset": {
-            "path": "course_instructions.md"
-        }
-    },
-    "generator_config": {
-        "KnowledgeBase": {}
+    "skill": [
+      "math"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": {
+    "MarkdownAsset": {
+      "path": "course_instructions.md"
     }
+  },
+  "generator_config": {
+    "KnowledgeBase": {}
+  }
 }
