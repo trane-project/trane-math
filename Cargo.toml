@@ -7,4 +7,8 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.68"
-trane = "0.11.0"
+trane = "0.12.0"
+
+[dev-dependencies]
+fs_extra = "1.3.0"
+tempfile = "3.4.0"
